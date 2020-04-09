@@ -1,0 +1,22 @@
+{
+  "name": "binbin.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd app && gitbook serve",
+    "build": "gitbook build ./app --output=../"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binbin/binbin.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binbin/binbin.github.io/issues"
+  },
+  "homepage": "https://github.com/binbin/binbin.github.io#readme"
+}
