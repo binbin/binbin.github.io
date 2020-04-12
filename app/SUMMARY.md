@@ -4,8 +4,8 @@
 
 * [Generator 函数的语法](es6/es6_1.md)
 * [Generator 函数的异步应用](es6/es6_1.md)
-* [GitBook is nice](part1/gitbook.md)
-
+<!-- * [GitBook is nice](part1/gitbook.md) -->
+<!-- 
 ### Part II
 
 * [We love feedback](part2/feedback_please.md)
@@ -13,4 +13,4 @@
 
 ---
 
-* [Last part without title](part3/title.md)
+* [Last part without title](part3/title.md) -->

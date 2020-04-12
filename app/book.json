@@ -1,0 +1,11 @@
+{
+    "plugins": ["github", "icp"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/binbin"
+        },
+        "icp": {
+            "number": "蒙ICP备18003420号-1"
+        }
+    }
+}
