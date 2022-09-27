@@ -54,7 +54,7 @@
 
 - 工作经验丰富, 善于快速上手, 解决不同领域的各类问题
 
-- 有工作热情,善于用技术手段解决现实问题,如近期开发的[Excel 汇总工具](https://pan.baidu.com/s/1GImnuX3Ko8sU5GSR6UHfPw?pwd=bdx9)、[医保报表汇总工具](https://pan.baidu.com/s/1TWW-1o1-enk3s_yaJnlRzw?pwd=6pva)、[表格邮](https://pan.baidu.com/s/1uytXnYGzKphqev27rVjS6Q?pwd=vpzk)等
+- 有工作热情,善于用技术手段解决现实问题,如近期开发的[Excel 汇总工具](https://pan.baidu.com/s/1QuqMl9_a2N6P7w72530aGw?pwd=jrue)、[医保报表汇总工具](https://pan.baidu.com/s/1TWW-1o1-enk3s_yaJnlRzw?pwd=6pva)、[表格邮](https://pan.baidu.com/s/1uytXnYGzKphqev27rVjS6Q?pwd=vpzk)等
 
 - 具有全栈研发能力
 
