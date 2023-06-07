@@ -11,7 +11,7 @@
     </div>
     <div style="width: 30%;">
         <!-- 右侧栏内容 -->
-        ![图片描述](https://github.com/binbin/pic.jpg)
+         <img src="/pic.jpg" alt="寸照" style="position: absolute; top: 0; right: 0; width: 100px; height: 100px;">
     </div>
 </div>
 
