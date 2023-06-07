@@ -45,7 +45,7 @@ Error generating stack: `+i.message+`
 </div>
 <div style="width: 30%;">
     <!-- \u53F3\u4FA7\u680F\u5185\u5BB9 -->
-    ![\u56FE\u7247\u63CF\u8FF0](https://github.com/binbin/pic.jpg)
+     <img src="/pic.jpg" alt="\u5BF8\u7167" style="position: absolute; top: 0; right: 0; width: 100px; height: 100px;">
 </div>
 </li>
 </ul>
