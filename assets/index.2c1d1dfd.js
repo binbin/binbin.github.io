@@ -45,7 +45,7 @@ Error generating stack: `+i.message+`
 </div>
 <div style="width: 30%;">
     <!-- \u53F3\u4FA7\u680F\u5185\u5BB9 -->
-    ![\u56FE\u7247\u63CF\u8FF0](/pic.jpg)
+    ![\u56FE\u7247\u63CF\u8FF0](https://github.com/binbin/pic.jpg)
 </div>
 </li>
 </ul>
