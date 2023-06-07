@@ -1,17 +1,20 @@
-## 个人信息
+
 <div style="display: flex;">
-    <div style="width: 70%;">
+    <div class="left">
+
+## 个人信息
+
   - 宁彬彬, 男, 38岁,信息系统项目管理师,大学本科(计算机科学与技术)
 
-  - CellPhone: [+86-18147671897](tel:+86-18147671897)
+  - 手机: [+86-18147671897](tel:+86-18147671897)
 
   - Email: [421099982@qq.com](mailTo:421099982@qq.com)
 
   - Github: [https://github.com/binbin](https://github.com/binbin)
     </div>
-    <div style="width: 30%;">
+    <div class="right">
         <!-- 右侧栏内容 -->
-         <img src="/pic.jpg" alt="寸照" style="position: absolute; top: 0; right: 0; width: 100px; height: 100px;">
+         <img src="/pic.jpg" alt="寸照" style=" width: 7.5em; height:auto;">
     </div>
 </div>
 
