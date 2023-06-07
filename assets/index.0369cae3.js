@@ -53,11 +53,10 @@ Error generating stack: `+i.message+`
 <li>\u7ECF\u5386\u4ECE jQuery/Dojo/Prototype \u5230 underscore/backbone \u518D\u5230 angular/react/react \u65F6\u4EE3,\u5305\u7BA1\u7406\u4ECE\u539F\u6765\u7684 shell \u811A\u672C\u5230 grunt/gulp \u518D\u5230 webpack/vite,css \u4ECE\u539F\u751F css2 \u5230 css3/\u65E9\u671F Sass/compass \u518D\u5230\u73B0\u5728 Sass/Less\uFF0C\u4ECE es5 \u5230 coffeescript \u518D\u5230 es6+/ts \u7B49</li>
 <li>\u6280\u672F\u524D\u77BB\u6027\u5F3A</li>
 </ul>
-<h2>\u6C42\u804C\u610F\u5411</h2>
-<ul>
-<li>\u524D\u7AEF\u7814\u53D1\u4E0E\u7BA1\u7406</li>
-<li>\u8FDC\u7A0B\u5168\u804C</li>
-</ul>
+<!-- ## \u6C42\u804C\u610F\u5411
+
+- \u524D\u7AEF\u7814\u53D1\u4E0E\u7BA1\u7406
+- \u8FDC\u7A0B\u5168\u804C -->
 <h2>\u5DE5\u4F5C\u7ECF\u5386</h2>
 <ul>
 <li>
