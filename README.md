@@ -1,6 +1,6 @@
 ## 个人信息
 
-- 宁彬彬, 男, 37,大学本科(计算机科学与技术)
+- 宁彬彬, 男, 38,大学本科(计算机科学与技术)
 
 - CellPhone: [+86-18147671897](tel:+86-18147671897)
 
@@ -8,9 +8,12 @@
 
 - Github: [https://github.com/binbin](https://github.com/binbin)
 
-## 个人技术栈
+## 简介
 
-- 有丰富的带领团队项目成功实施经验，通过计算机技术与软件专业技术资格（水平）考试获得信息系统项目管理师证书
+- 独立开发能力
+- 熟悉信息系统项目建设全流程并有丰富的带领团队项目成功实施经验
+- IT 行业内头部公司任职经验
+- 通过计算机技术与软件专业技术资格（水平）考试获得信息系统项目管理师证书
 - 经历从 jQuery/Dojo/Prototype 到 underscore/backbone 再到 angular/react/react 时代,包管理从原来的 shell 脚本到 grunt/gulp 再到 webpack/vite,css 从原生 css2 到 css3/早期 Sass/compass 再到现在 Sass/Less，从 es5 到 coffeescript 再到 es6+/ts 等
 - 技术前瞻性强
 
@@ -21,20 +24,20 @@
 
 ## 工作经历
 
-- 2014.09 至今 赤峰市社保中心, 科员
+- 2014.09(考录公务员) 现职务:赤峰市社保中心, 科员
+
+  - 自助办理机(独自开发), 实现单位和个人自助打印缴费证明、单位自助导出每月核定数据,将原来需要到窗口打印的证明变为自助打印.
 
   - 城职社保经办插件 1.0(独自开发), 实现批量查询、批量到账等, 将原来个人到帐业务从一个月左右缩短到不到一周.
 
   - 新农保经办插件(独自开发), 实现批量查询、批量办理退休等, 将原来办理退休从需要等近一年缩短到当月办理并提高准确率.
-
-  - 自助办理机(独自开发), 实现单位和个人自助打印缴费证明、单位自助导出每月核定数据,将原来需要到窗口打印的证明变为自助打印.
 
   - 推送服务(独自开发), 实现向各单位的邮箱推送每月核定数据,将各单位每月需要到大厅来拷贝的征集数据变为主动发送到各单位邮箱.
 
   - 经办插件 2.0(独自开发), 实现批量查询、快速核定与增减人员、批量到账、工伤药费快速录入与审核、机关系统的批量查询与修改、待转基金查询、退休与特殊工种申请及年审不便人员登录等,将诸多工作做了大量优化，从而大大的缩短了经办时效.
   - 科员日常工作
 
-  - 技术栈: ES6, react, vue,webpack,express.js,mysql 等
+  - 技术栈: ES6, react, vue,webpack,express.js,mysql,nest.js,docker,github actions 等
 
 - 2012.03 - 2014.08 [北京百分点科技集团股份有限公司](https://www.percent.cn/), 高级研发工程师
 
@@ -60,7 +63,7 @@
 
 - 工作经验丰富, 善于快速上手, 解决不同领域的各类问题
 
-- 有工作热情,善于用技术手段解决现实问题,如近期开发的[Excel 汇总工具](https://pan.baidu.com/s/1QuqMl9_a2N6P7w72530aGw?pwd=jrue)、[医保报表汇总工具](https://pan.baidu.com/s/1TWW-1o1-enk3s_yaJnlRzw?pwd=6pva)、[表格邮](https://pan.baidu.com/s/1uytXnYGzKphqev27rVjS6Q?pwd=vpzk)、[核酸检测批量查询](https://pan.baidu.com/s/1o9FCoJaVvr43RFb8zbSNGw?pwd=h9pf)等
+- 有工作热情,善于用技术手段解决现实问题,如近期开发的[中心工作台](https://www.51chifeng.cn/),[Excel 汇总工具](https://pan.baidu.com/s/1QuqMl9_a2N6P7w72530aGw?pwd=jrue)、[医保报表汇总工具](https://pan.baidu.com/s/1TWW-1o1-enk3s_yaJnlRzw?pwd=6pva)、[表格邮](https://pan.baidu.com/s/1uytXnYGzKphqev27rVjS6Q?pwd=vpzk)、[核酸检测批量查询](https://pan.baidu.com/s/1o9FCoJaVvr43RFb8zbSNGw?pwd=h9pf)等
 
 - 具有全栈研发能力
 
