@@ -17,10 +17,10 @@
 - 经历从 jQuery/Dojo/Prototype 到 underscore/backbone 再到 angular/react/react 时代,包管理从原来的 shell 脚本到 grunt/gulp 再到 webpack/vite,css 从原生 css2 到 css3/早期 Sass/compass 再到现在 Sass/Less，从 es5 到 coffeescript 再到 es6+/ts 等
 - 技术前瞻性强
 
-## 求职意向
+<!-- ## 求职意向
 
 - 前端研发与管理
-- 远程全职
+- 远程全职 -->
 
 ## 工作经历
 
