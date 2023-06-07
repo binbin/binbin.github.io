@@ -1,6 +1,6 @@
 ## 个人信息
 
-- 宁彬彬, 男, 38,大学本科(计算机科学与技术)
+- 宁彬彬, 男, 38岁,信息系统项目管理师,大学本科(计算机科学与技术)
 
 - CellPhone: [+86-18147671897](tel:+86-18147671897)
 
@@ -11,11 +11,15 @@
 ## 简介
 
 - 独立开发能力
+  
 - 熟悉信息系统项目建设全流程并有丰富的带领团队项目成功实施经验
+  
 - IT 行业内头部公司任职经验
-- 通过计算机技术与软件专业技术资格（水平）考试获得信息系统项目管理师证书
+  
+- 通过国家计算机技术与软件专业技术资格（水平）考试获得《信息系统项目管理师》证书
+  
 - 经历从 jQuery/Dojo/Prototype 到 underscore/backbone 再到 angular/react/react 时代,包管理从原来的 shell 脚本到 grunt/gulp 再到 webpack/vite,css 从原生 css2 到 css3/早期 Sass/compass 再到现在 Sass/Less，从 es5 到 coffeescript 再到 es6+/ts 等
-- 技术前瞻性强
+
 
 <!-- ## 求职意向
 
@@ -61,10 +65,12 @@
 
 ## 优势
 
-- 工作经验丰富, 善于快速上手, 解决不同领域的各类问题
+- 工作经验丰富, 善于使用不同视图、视角分析和解决问题
 
 - 有工作热情,善于用技术手段解决现实问题,如近期开发的[中心工作台](https://www.51chifeng.cn/),[Excel 汇总工具](https://pan.baidu.com/s/1QuqMl9_a2N6P7w72530aGw?pwd=jrue)、[医保报表汇总工具](https://pan.baidu.com/s/1TWW-1o1-enk3s_yaJnlRzw?pwd=6pva)、[表格邮](https://pan.baidu.com/s/1uytXnYGzKphqev27rVjS6Q?pwd=vpzk)、[核酸检测批量查询](https://pan.baidu.com/s/1o9FCoJaVvr43RFb8zbSNGw?pwd=h9pf)等
 
 - 具有全栈研发能力
 
-- 跨语言, 跨文化, 跨角色工作经验丰富
+- 技术前瞻性强
+
+<!-- - 跨语言, 跨文化, 跨角色工作经验丰富 -->
