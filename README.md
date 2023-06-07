@@ -11,7 +11,7 @@
     </div>
     <div style="width: 30%;">
         <!-- 右侧栏内容 -->
-        ![图片描述](/pic.jpg)
+        ![图片描述](https://github.com/binbin/pic.jpg)
     </div>
 </div>
 
